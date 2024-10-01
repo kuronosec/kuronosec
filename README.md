@@ -1,5 +1,5 @@
 ## Hi there, I am Andres Gomez 👋
-- 🔭 I’m currently working on https://sakundi.io
+- 🔭 I’m currently working on https://sakundi.io and https://github.com/kuronosec/zk-firma-digital
 - 🌱 I’m currently learning Zero-Knowledge cryptography
 - 👯 I’m looking to collaborate on privacy, web3, security, AI
 
